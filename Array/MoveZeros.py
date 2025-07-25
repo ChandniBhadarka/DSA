@@ -1,5 +1,6 @@
 class Solution(object):
     def moveZeroes(self, nums):
+        
         n = len(nums)
         i = 0
         zeroMoved = 0 
