@@ -1,7 +1,7 @@
 class Solution(object):
     def subsets(self, nums):
-        result = []
 
+        result = []
         def backtrack(start, path):
             result.append(list(path)) 
             for i in range(start, len(nums)):
