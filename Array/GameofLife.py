@@ -2,7 +2,7 @@ class Solution(object):
     def gameOfLife(self, board):
         m, n = len(board), len(board[0])
         
-        # Directions for 8 neighbors
+        
         directions = [(-1, -1), (-1, 0), (-1, 1),
                     (0, -1),         (0, 1),
                     (1, -1),  (1, 0), (1, 1)]
@@ -16,11 +16,11 @@ class Solution(object):
                     if 0 <= ni < m and 0 <= nj < n and abs(board[ni][nj]) == 1:
                         live_neighbors += 1
                 
-                # Rule 1 or 3: live cell dies
+                
                 if board[i][j] == 1 and (live_neighbors < 2 or live_neighbors > 3):
                     board[i][j] = -1  # Mark as was live, now dead
                 
-                # Rule 4: dead cell becomes live
+                
                 if board[i][j] == 0 and live_neighbors == 3:
                     board[i][j] = 2  # Mark as was dead, now live
         
