@@ -1,20 +1,39 @@
 class Solution:
-    def maxArea(self, h, w, horizontalCuts, verticalCuts):
-        MOD = 10**9 + 7
-        
-        # Sort the cuts
-        horizontalCuts.sort()
-        verticalCuts.sort()
-        
-        # Max horizontal gap
-        max_h_gap = max(horizontalCuts[0], h - horizontalCuts[-1])  # edges
-        for i in range(1, len(horizontalCuts)):
-            max_h_gap = max(max_h_gap, horizontalCuts[i] - horizontalCuts[i-1])
-        
-        # Max vertical gap
-        max_v_gap = max(verticalCuts[0], w - verticalCuts[-1])  # edges
-        for j in range(1, len(verticalCuts)):
-            max_v_gap = max(max_v_gap, verticalCuts[j] - verticalCuts[j-1])
-        
-        # Result
-        return (max_h_gap * max_v_gap) % MOD
+    def maxArea(self, h, w, hc, vc):
+        """
+        :type h: int
+        :type w: int
+        :type horizontalCuts: List[int]
+        :type verticalCuts: List[int]
+        :rtype: int
+        """
+
+        ret = 0
+
+        if len(hc) == 0:
+            if len(vc) == 0:
+                return h*w
+
+        hc.sort()
+        vc.sort()
+
+        hdiff = 0
+        vdiff = 0
+        lh = 0
+        lv = 0
+
+        for i in hc:
+            if i-lh > hdiff:
+                hdiff = i-lh
+            lh = i
+        if h-lh > hdiff:
+            hdiff = h-lh
+
+        for j in vc:
+            if j-lv > vdiff:
+                vdiff = j-lv
+            lv = j
+        if w-lv > vdiff:
+            vdiff = w-lv
+
+        return vdiff*hdiff % (10**9+7)
