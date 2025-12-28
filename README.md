@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ChandniBhadarka/DSA/tree/master/0018-4sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ChandniBhadarka/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChandniBhadarka/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/ChandniBhadarka/DSA/tree/master/0636-exclusive-time-of-functions) |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/ChandniBhadarka/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/ChandniBhadarka/DSA/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ChandniBhadarka/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/ChandniBhadarka/DSA/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/ChandniBhadarka/DSA/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
