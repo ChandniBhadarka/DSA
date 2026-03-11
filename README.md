@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/ChandniBhadarka/DSA/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ChandniBhadarka/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ChandniBhadarka/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1646-get-maximum-in-generated-array](https://github.com/ChandniBhadarka/DSA/tree/master/1646-get-maximum-in-generated-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ChandniBhadarka/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ChandniBhadarka/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Stack
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/ChandniBhadarka/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1646-get-maximum-in-generated-array](https://github.com/ChandniBhadarka/DSA/tree/master/1646-get-maximum-in-generated-array) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/ChandniBhadarka/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/ChandniBhadarka/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Math
