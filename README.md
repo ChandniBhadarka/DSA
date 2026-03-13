@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ChandniBhadarka/DSA/tree/master/0018-4sum) |
+| [0344-reverse-string](https://github.com/ChandniBhadarka/DSA/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ChandniBhadarka/DSA/tree/master/0232-implement-queue-using-stacks) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/ChandniBhadarka/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
