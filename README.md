@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ChandniBhadarka/DSA/tree/master/0018-4sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ChandniBhadarka/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChandniBhadarka/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/ChandniBhadarka/DSA/tree/master/0204-count-primes) |
 | [0636-exclusive-time-of-functions](https://github.com/ChandniBhadarka/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/ChandniBhadarka/DSA/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ChandniBhadarka/DSA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ChandniBhadarka/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/ChandniBhadarka/DSA/tree/master/0204-count-primes) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -65,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ChandniBhadarka/DSA/tree/master/0344-reverse-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ChandniBhadarka/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ChandniBhadarka/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
