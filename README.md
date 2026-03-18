@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ChandniBhadarka/DSA/tree/master/0018-4sum) |
+| [0125-valid-palindrome](https://github.com/ChandniBhadarka/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ChandniBhadarka/DSA/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/ChandniBhadarka/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ChandniBhadarka/DSA/tree/master/0344-reverse-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ChandniBhadarka/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Enumeration
