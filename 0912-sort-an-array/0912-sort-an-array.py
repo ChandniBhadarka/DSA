@@ -60,3 +60,10 @@ class Solution(object):
         result.extend(right[j:])
         
         return result
+
+
+########## Another approach 
+
+class Solution(object):
+    def sortArray(self, nums):
+        return sorted(nums)
