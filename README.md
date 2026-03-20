@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ChandniBhadarka/DSA/tree/master/0204-count-primes) |
 | [0636-exclusive-time-of-functions](https://github.com/ChandniBhadarka/DSA/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/ChandniBhadarka/DSA/tree/master/0739-daily-temperatures) |
+| [0912-sort-an-array](https://github.com/ChandniBhadarka/DSA/tree/master/0912-sort-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ChandniBhadarka/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ChandniBhadarka/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-get-maximum-in-generated-array](https://github.com/ChandniBhadarka/DSA/tree/master/1646-get-maximum-in-generated-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ChandniBhadarka/DSA/tree/master/0018-4sum) |
+| [0912-sort-an-array](https://github.com/ChandniBhadarka/DSA/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ChandniBhadarka/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Queue
 |  |
@@ -96,13 +98,31 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/ChandniBhadarka/DSA/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ChandniBhadarka/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/ChandniBhadarka/DSA/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ChandniBhadarka/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ChandniBhadarka/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ChandniBhadarka/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ChandniBhadarka/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ChandniBhadarka/DSA/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ChandniBhadarka/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
